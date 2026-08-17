@@ -1,0 +1,20 @@
+[project]
+name = "pickslip-scheduler"
+version = "0.1.0"
+description = "AI-assisted warehouse pick-slip scheduling"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.57",
+    "pandas>=2.2",
+    "numpy>=2.0",
+    "plotly>=5.24",
+    "openai>=1.0",
+    "python-dotenv>=1.0",
+    "yfinance>=0.2",
+    "streamlit-calendar>=1.4.0",
+    "fastapi>=0.141.1",
+    "uvicorn[standard]>=0.52.3",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,7 @@
+.venv/
+.nodeenv/
+frontend/node_modules/
+.env
+__pycache__/
+*.py[cod]
+pickslip_scheduler.db

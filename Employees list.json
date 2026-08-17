@@ -1,0 +1,54 @@
+{
+  "warehouse_employees": [
+    {
+      "employeeID": "WH-1001",
+      "Name": "Marcus Vance",
+      "availability": "Full-Time (Morning Shift)"
+    },
+    {
+      "employeeID": "WH-1002",
+      "Name": "Elena Rostova",
+      "availability": "Full-Time (Night Shift)"
+    },
+    {
+      "employeeID": "WH-1003",
+      "Name": "Derrick Hayes",
+      "availability": "Full-Time (Morning Shift)"
+    },
+    {
+      "employeeID": "WH-1004",
+      "Name": "Amina Patel",
+      "availability": "Part-Time (Weekends Only)"
+    },
+    {
+      "employeeID": "WH-1005",
+      "Name": "Carlos Mendez",
+      "availability": "Full-Time (Swing Shift)"
+    },
+    {
+      "employeeID": "WH-1006",
+      "Name": "Sarah Jenkins",
+      "availability": "Part-Time (Mon/Wed/Fri)"
+    },
+    {
+      "employeeID": "WH-1007",
+      "Name": "Tariq Al-Mansoor",
+      "availability": "Full-Time (Morning Shift)"
+    },
+    {
+      "employeeID": "WH-1008",
+      "Name": "Chloe Bennett",
+      "availability": "On-Call / Float"
+    },
+    {
+      "employeeID": "WH-1009",
+      "Name": "Liam O'Connor",
+      "availability": "Full-Time (Night Shift)"
+    },
+    {
+      "employeeID": "WH-1010",
+      "Name": "Hana Takahashi",
+      "availability": "Part-Time (Tue/Thu/Sat)"
+    }
+  ]
+}
